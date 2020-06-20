@@ -1,0 +1,12 @@
+#The following file types are ignored#
+*.txt
+*.mat
+*.fig
+*.eps
+*.png
+*.xlsx
+*.tcl
+*.pdf
+*.m
+*.csv
+*.exe
